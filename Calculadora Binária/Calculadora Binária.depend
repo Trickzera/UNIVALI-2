@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618871668 source:c:\users\patri\desktop\patrick\calculadora binária\main.c
+	<stdio.h>
+	<locale.h>
+
